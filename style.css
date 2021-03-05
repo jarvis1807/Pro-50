@@ -1,0 +1,28 @@
+.menu{
+    display:flex;
+    background-color: orange ;
+    font-size: 20px;
+
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+.grid img{
+    border: 1px;
+    border-radius: 30px;
+
+}
+
+.origami{
+    background-color: black;
+    margin:100px;
+    border-radius: 50px;
+    justify-content: space-evenly;
+}
+p{
+    color:white;
+    text-align: center;
+
+}
